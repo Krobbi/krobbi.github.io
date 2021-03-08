@@ -1,0 +1,11 @@
+# System
+desktop.ini
+Thumbs.db
+.DS_Store
+
+# IDE
+.idea
+.vscode
+*.suo
+*.sublime-project
+*.sublime-workspace
