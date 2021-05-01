@@ -2,7 +2,7 @@
 This is the GitHub Pages repository for https://krobbi.github.io.
 
 # License
-MIT License - https://krobbi.github.io/license/mit-2020.txt.
+MIT License - https://krobbi.github.io/license/2020/2021/mit.txt.
 
 ---
 
