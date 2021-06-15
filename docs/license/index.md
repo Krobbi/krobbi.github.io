@@ -10,5 +10,4 @@ This directory is used to host software licenses attributed to Chris Roberts
 * [Modified non-commercial MIT License](https://krobbi.github.io/license/2020/2021/mnc-mit.txt)
 
 # 2021
-* [Coldest Night](https://krobbi.github.io/license/2021/coldest-night.txt)
 * [MIT License](https://krobbi.github.io/license/2021/mit.txt)
