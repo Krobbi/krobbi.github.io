@@ -11,6 +11,7 @@ by copyright year:
 * [Modified non-commercial MIT License](https://krobbi.github.io/license/2020/2021/mnc-mit.txt) _(Deprecated)_
 
 ## 2021
+* [Krobbizoid Proprietary-Open Game Development License](https://krobbi.github.io/license/2021/kpogdl.txt)
 * [MIT License](https://krobbi.github.io/license/2021/mit.txt)
 
 ---

@@ -1,6 +1,6 @@
 Krobbizoid Proprietary-Open Game Development License
 
-Copyright (c) <Copyright Year> <Copyright Holders>
+Copyright (c) 2021 Chris Roberts
 All rights reserved.
 
 1. Definitions
